@@ -1,0 +1,4 @@
+09/09/2020 10:05:53 : La flèche est égale à : -1,0643330179754
+09/09/2020 10:05:56 : La flèche est égale à : -0,393226484473671
+09/09/2020 10:06:16 : La flèche est égale à : -0,0144509582333814
+09/09/2020 10:34:44 : La flèche est égale à : -56,4143177187774 pour une poutre de forme circulaire en Bronze au béryllium

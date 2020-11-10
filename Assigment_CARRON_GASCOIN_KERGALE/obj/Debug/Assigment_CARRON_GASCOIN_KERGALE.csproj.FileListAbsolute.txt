@@ -1,0 +1,8 @@
+c:\users\i.kergale\documents\visual studio 2013\Projects\Assigment_CARRON_GASCOIN_KERGALE\Assigment_CARRON_GASCOIN_KERGALE\obj\Debug\Assigment_CARRON_GASCOIN_KERGALE.csprojResolveAssemblyReference.cache
+c:\users\i.kergale\documents\visual studio 2013\Projects\Assigment_CARRON_GASCOIN_KERGALE\Assigment_CARRON_GASCOIN_KERGALE\obj\Debug\Assigment_CARRON_GASCOIN_KERGALE.Form1.resources
+c:\users\i.kergale\documents\visual studio 2013\Projects\Assigment_CARRON_GASCOIN_KERGALE\Assigment_CARRON_GASCOIN_KERGALE\obj\Debug\Assigment_CARRON_GASCOIN_KERGALE.Properties.Resources.resources
+c:\users\i.kergale\documents\visual studio 2013\Projects\Assigment_CARRON_GASCOIN_KERGALE\Assigment_CARRON_GASCOIN_KERGALE\obj\Debug\Assigment_CARRON_GASCOIN_KERGALE.csproj.GenerateResource.Cache
+c:\users\i.kergale\documents\visual studio 2013\Projects\Assigment_CARRON_GASCOIN_KERGALE\Assigment_CARRON_GASCOIN_KERGALE\bin\Debug\Assigment_CARRON_GASCOIN_KERGALE.exe
+c:\users\i.kergale\documents\visual studio 2013\Projects\Assigment_CARRON_GASCOIN_KERGALE\Assigment_CARRON_GASCOIN_KERGALE\bin\Debug\Assigment_CARRON_GASCOIN_KERGALE.pdb
+c:\users\i.kergale\documents\visual studio 2013\Projects\Assigment_CARRON_GASCOIN_KERGALE\Assigment_CARRON_GASCOIN_KERGALE\obj\Debug\Assigment_CARRON_GASCOIN_KERGALE.exe
+c:\users\i.kergale\documents\visual studio 2013\Projects\Assigment_CARRON_GASCOIN_KERGALE\Assigment_CARRON_GASCOIN_KERGALE\obj\Debug\Assigment_CARRON_GASCOIN_KERGALE.pdb

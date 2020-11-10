@@ -1,0 +1,13 @@
+09/09/2020 09:28:19 : La flèche est égale à : -2,43037974683544
+09/09/2020 09:28:27 : La flèche est égale à : -0,612244897959183
+09/09/2020 10:06:47 : La flèche est égale à : -0,0144509582333814
+09/09/2020 10:06:51 : La flèche est égale à : -0,013837474157436
+09/09/2020 10:06:54 : La flèche est égale à : -0,0137725094900302
+09/09/2020 10:11:30 : La flèche est égale à : -0,478426032110092 pour une poutre de forme rectangulaire en Cuivre laminé U4 (Écroui dur)
+09/09/2020 10:11:33 : La flèche est égale à : -0,414820259054993 pour une poutre de forme rectangulaire en Monel 400 (Ni + Cu)
+09/09/2020 10:11:49 : La flèche est égale à : -71,8814073006122 pour une poutre de forme circulaire en Monel 400 (Ni + Cu)
+09/09/2020 10:17:58 : La flèche est égale à : -357,319026543897 pour une poutre de forme circulaire en Invar
+09/09/2020 10:34:50 : La flèche est égale à : -56,4143177187774 pour une poutre de forme circulaire en Bronze au béryllium
+09/09/2020 10:34:50 : La flèche est égale à : -56,4143177187774 pour une poutre de forme circulaire en Bronze au béryllium
+09/09/2020 10:34:50 : La flèche est égale à : -56,4143177187774 pour une poutre de forme circulaire en Bronze au béryllium
+09/09/2020 10:34:50 : La flèche est égale à : -56,4143177187774 pour une poutre de forme circulaire en Bronze au béryllium
